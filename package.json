@@ -41,7 +41,11 @@
       "last 1 safari version"
     ]
   },
+  "overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
+  },
   "devDependencies": {
+    "@svgr/webpack": "^6.5.1",
     "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.13",
     "gh-pages": "^4.0.0",

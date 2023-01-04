@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d2805eb.css",
-    "main.js": "/static/js/main.fbf75cff.js",
-    "static/js/496.392b9e75.chunk.js": "/static/js/496.392b9e75.chunk.js",
-    "index.html": "/index.html",
-    "main.2d2805eb.css.map": "/static/css/main.2d2805eb.css.map",
-    "main.fbf75cff.js.map": "/static/js/main.fbf75cff.js.map",
-    "496.392b9e75.chunk.js.map": "/static/js/496.392b9e75.chunk.js.map"
+    "main.css": "/WRCoin-Bank/static/css/main.2d2805eb.css",
+    "main.js": "/WRCoin-Bank/static/js/main.788e66cc.js",
+    "static/js/496.392b9e75.chunk.js": "/WRCoin-Bank/static/js/496.392b9e75.chunk.js",
+    "index.html": "/WRCoin-Bank/index.html",
+    "main.2d2805eb.css.map": "/WRCoin-Bank/static/css/main.2d2805eb.css.map",
+    "main.788e66cc.js.map": "/WRCoin-Bank/static/js/main.788e66cc.js.map",
+    "496.392b9e75.chunk.js.map": "/WRCoin-Bank/static/js/496.392b9e75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d2805eb.css",
-    "static/js/main.fbf75cff.js"
+    "static/js/main.788e66cc.js"
   ]
 }
